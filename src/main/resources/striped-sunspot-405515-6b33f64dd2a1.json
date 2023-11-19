@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "striped-sunspot-405515",
+  "private_key_id": "6b33f64dd2a1ed719002337d3d4b24de12b4a339",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2uzKBiRr/PLSF\nlV8ZgCUH+IH+PmY3QVwTvsVwXzCAvU2KEdLvkuUhm/4kUUlvUUWVgo1P9I9bUHFF\nEiHOYRj33rbhsWI+b5OansrGAn//6Uy3Lo/OOxfeN2ABND1Vxp38J4JBLangExNF\nqa9guFcHaHHCOuRS1o800LyyuP966iH/FtHyIM0ETLuTPVmq6HaifQFtAbjXStuz\nKRKSLeFf40VBe60mDmBLV92DN6KPDLHzcMhr/Dn+/Qtgbc44um3fb8c58U/A+Cda\nAVB4MCZu/PySb+AITAB3OViSqdeC75+VC8NfYGZuP0iEB/rs4MeItX7Y5QL50c0Y\nSL1jc/1tAgMBAAECggEAC75GjegVhdMtJ8uUb8NaPeOk2QXCFGl9JSC0uBbJ+3AP\nAGFKXM6kLo+DmuplbYO71NKtybZmEyB9kwqKBSUc0Wss9h6r+Wa6xexQDD8jYjso\nTLpvj/mgvE1zPEiS64UG6KpSVuV8HhQjwC2aQX0/TJDUBL87pq42yFZk1hiJBKlU\nxuhk2q/DO8a6ruzz1mffXIjvuVYcu86TilAl5wS2f4Z/kGf/jFqri1gRqzEf42no\n2QJuAdzJyeb6c1Cacaz0eh6Bv+9r3kov6RPz+7F3UJZF30rxUcV8mZByVb7uRqcd\ng9wQV0odlYOgFm1QEFui3IwJRcrKwxKPBbHuCTu3+QKBgQD3RI9pOFUDLrhKck7p\ncm5mc2is8xkJwes9Ol7LWrhO03DSs+JRqFA2/1ZmVwgoyDbqUxnxdZDjFKQggeuW\nlOwVVZQlLGjjjbhD4mTTmmEpyTiyQ+WCgBdyMBkM8/s+kvP25uxgO4LW+T2KQ/gY\nj4J93hYmh+DTjwJf1PIX+ALoCQKBgQC9LzCzzWBE8lEko81+WI6fLhLXHHsyCz/m\nYlHTLEx3pzTqRQ0yMtScgkrrkfKY6P3pH0/VYTImO32frcXtppuwj+BaA51vVTVU\npJ0baIRUnI2LBVMAQ4SRfwcjO8XkExOFXf3SvtFGW8EUa9TVskjFzaOoAzYGAJa9\n1G3GZj6bRQKBgQDfCL564E7+QeQFcrnvJEKksrDWX6hT/tCbN81NjBT3NQ1tYMhh\nc3p3QTXDtfksH/w4vKCIBc2cpn+susOv3cBdNgYcycQKjUiKIuljXLsLn+8+DLQ2\nVCfR3cSaxG/5b0ATkxPfcY6BLevujYR5UukXc31zX9jRuwsfOcrtB85HUQKBgGVN\nYKHXBobEzoh1IfNWzkAUdsgzGxDID1Z5LWGLpgKoSWBsy00nBMwtxJpx01rn4Ba1\nypTy79yjHHiln4fLIDEiSbtJlkLoeJ8zamEjzUBVeEGJ/1Dz1ofmYlcOib/AK0LN\n+r2fqgYn2bLqrtQjHG6217x+w63hINbTaljDpSCVAoGALRSNFbwMV0a5RJe1AIEy\nio4VJKzOZ3qwQuPynkNbZKIprGouXJcwPiPTa5faGPuULKAaFlKTOV+FqXrdQ5l7\nOOf7OSBODhO3CJOGRXr8g4fb210EHtsuGOJPBtbsFMFeqay0l1vUpPM8tUH24eG9\nlyr+r1ct6Z+hU+8eRpfbh04=\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-gcp@striped-sunspot-405515.iam.gserviceaccount.com",
+  "client_id": "101027635833533175271",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-gcp%40striped-sunspot-405515.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
